@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "@paypal/react-paypal-js": "^8.8.2",
+    "@stripe/stripe-js": "^7.0.0",
+    "axios": "^1.8.4",
+    "mongodb": "^6.15.0",
+    "next-intl": "^4.0.2",
+    "redis": "^4.7.0",
+    "sharp": "^0.33.5"
+  }
+}
